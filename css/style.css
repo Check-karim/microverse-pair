@@ -1,0 +1,16 @@
+#navbar {
+    background-color: #be3144 !important;
+    color: white !important;
+    font-size: 30px;
+}
+
+#welcome-section {
+    text-align: center;
+    height: 100vh;
+    width: auto;
+    justify-items: center;
+}
+
+.home-row {
+    justify-content: center;
+}
